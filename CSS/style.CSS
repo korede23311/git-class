@@ -11,3 +11,8 @@ p{
     text-align: center;
     color: pink;
 }
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
